@@ -1,0 +1,73 @@
+# =================================================
+# enphase_energy
+# =================================================
+private static String start_time = "2011-01-01T01:00:00.000Z";
+private static String end_time = "2015-01-01T01:00:00.000Z";
+private static String search_query = "($ENPH) OR (\"Enphase Energy\") OR (\"Badri Kothandaraman\") OR (@enphase) OR (from:enphase)  lang:en -is:retweet";
+private static String file_name = "1_enphase_energy_tweets.csv";
+private static String max_results = "500";
+
+# =================================================
+# first_solar
+# =================================================
+private static String start_time = "2011-01-01T01:00:00.000Z";
+private static String end_time = "2012-01-22T09:18:31.000Z";
+private static String search_query =  "($FSLR OR  \"Mark Widmar\" \"CEO\" OR  \"Michael J. Ahearn\" OR @FirstSolar OR from:FirstSolar) lang:en -is:retweet";
+private static String file_name = "2_first_solar_tweets.csv";
+private static String max_results = "500";
+
+
+# =================================================
+# Siemens Gamesa Renewable Energy S.A.
+# =================================================
+private static String start_time = "2011-01-01T01:00:00.000Z";
+private static String end_time = "2015-01-01T01:00:00.000Z";
+private static String search_query =  "($SGRE  OR  \"Siemens Gamesa\"  OR \"Siemens Wind Power\" OR \"Andreas Nauen\" \"CEO\" OR from:SiemensGamesa OR @SiemensGamesa OR @SiemensGamesaAf OR @SiemensGamesaUK OR @MAlopezborrego OR @SiemensGamesaES OR @MarkusTacke OR \"Siemens Energy\" OR from:SiemensGamesaAf OR from:SiemensGamesaUK OR from:MAlopezborrego OR from:SiemensGamesaES OR from:MarkusTacke) lang:en -is:retweet";
+private static String file_name = "3_siemens_gamesa_tweets.csv";
+private static String max_results = "500";
+
+# =================================================
+# PlugPowerInc
+# =================================================
+private static String start_time = "2011-01-01T01:00:00.000Z";
+private static String end_time = "2013-11-27T18:07:08.000Z";
+private static String search_query =  "($PLUG OR \"Plug Power Inc\" OR @PlugPowerInc OR  \"Andrew Marsh\" \"CEO\" OR  \"George C. McNamee\" \"chairman\") lang:en -is:retweet";
+private static String file_name = "4_plug_power_tweets.csv";
+private static String max_results = "500";
+
+# =================================================
+# Tesla
+# =================================================
+private static String start_time = "2021-03-01T01:00:00.000Z";
+private static String end_time = "2021-04-01T01:00:00.000Z";
+private static String search_query =  "($TSLA OR $SCTY \"Solar City\" OR @Tesla OR  \"Lyndon Rive\" \"CEO\"  OR @solarcity )  lang:en -is:retweet";
+private static String file_name = "5_tesla_tweets.csv";
+private static String max_results = "500";
+
+# =================================================
+# Sunrun
+# =================================================
+private static String start_time = "2011-01-01T01:00:00.000Z";
+private static String end_time = "2015-01-01T01:00:00.000Z";
+private static String search_query =  "($RUN OR \"Sunrun\" OR @Sunrun OR from:Sunrun OR \"Lynn Jurich\" OR @LynnJurich OR from:LynnJurich OR \"Edward Fenster\" \"chairman\")  lang:en -is:retweet";
+private static String file_name = "6_sunrun_tweets.csv";
+private static String max_results = "500";
+
+# =================================================
+# Sunpower
+# =================================================
+private static String start_time = "2011-01-01T01:00:00.000Z";
+private static String end_time = "2012-01-01T01:00:00.000Z";
+private static String search_query =  "($SPWR  OR \"SunPower Corporation\" OR \"Thomas H. Werner\" \"CEO\" OR @SunPower OR from:SunPower)  lang:en -is:retweet";
+private static String file_name = "7_sunpower_tweets.csv";
+private static String max_results = "500";
+
+
+# =================================================
+# Meridian Energy
+# =================================================
+private static String start_time = "2011-01-01T01:00:00.000Z";
+private static String end_time = "2015-03-01T01:00:00.000Z";
+private static String search_query = "($MEL OR $MEZ OR \"Meridian Energy\" OR \"Meridian Energy Limited\" OR \"Neal Barclay\"  \"CEO\" OR @MeridianEnergy OR from:MeridianEnergy)  lang:en -is:retweet";
+private static String file_name = "8_meridian_energy_tweets.csv";
+private static String max_results = "500";
