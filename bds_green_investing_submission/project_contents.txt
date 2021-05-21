@@ -1,0 +1,19 @@
+.
+├── data
+│   ├── datasets_info.txt
+│   └── stocks_data
+├── data_preparation
+│   ├── nltk_sentiment_analysis
+│   └── twitter_data_cleaning
+├── data_understanding
+│   ├── exploratory_data_analysis
+│   ├── news_articles_data_collection
+│   ├── stocks_data_collection
+│   └── twitter_data_collection
+├── modeling_and_evaluation
+│   ├── granger_causality_analysis
+│   ├── lag_analysis_granger_causality
+│   ├── tf_idf_word_cloud
+│   └── time_series_plots
+├── project_contents.txt
+└── readme.txt
