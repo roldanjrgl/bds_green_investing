@@ -9,9 +9,9 @@
 # ========================================================
 # Content 
 # ========================================================
+.
 ├── data
 │   ├── datasets_info.txt
-│   ├── results
 │   └── stocks_data
 ├── data_preparation
 │   ├── nltk_sentiment_analysis
@@ -22,11 +22,11 @@
 │   ├── stocks_data_collection
 │   └── twitter_data_collection
 ├── modeling_and_evaluation
+│   ├── granger_causality_analysis
 │   ├── lag_analysis_granger_causality
-│   └── tf_idf_word_cloud
-├── readme.md
+│   ├── tf_idf_word_cloud
+│   └── time_series_plots
 └── readme.txt
-
 
 # ========================================================
 # Datasets
