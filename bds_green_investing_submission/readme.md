@@ -1,8 +1,5 @@
 # Green Investing using Alternative Data Sources
 
-# Content 
-
-
 ## Data Understanding 
 ### news_articles_data_collection
 ### twitter_data_collection 
