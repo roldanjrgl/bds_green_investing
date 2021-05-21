@@ -66,10 +66,3 @@
 	# stocks_data_collection
 	# ---------------------------------
 		* For key access please contact us at kz2137@nyu.edu
-
-# ========================================================
-## Data Preparation
-# ========================================================
-## Modeling
-## Data
-
